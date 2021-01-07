@@ -1,0 +1,12 @@
+.random-photo {
+    &__button {
+        margin-bottom: 1rem;
+    }
+
+    &__image {
+        img {
+            width: 300px;
+            height: 300px;
+        }
+    }
+}

@@ -1,0 +1,17 @@
+.banner{
+    height: 350px;
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url('../../assets/images/banner.jpg');
+
+    &__title{
+        font-weight: bold;
+    }
+}
